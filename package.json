@@ -1,0 +1,14 @@
+{
+  "name": "swot-analysis",
+  "version": "1.0.0",
+  "description": "SWOT Analysis Presentation",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest"
+  }
+}
